@@ -9,9 +9,9 @@
   - Flex
   - Javascript
   
-## Live Demo
+## Link
     
-    URL: https://franecode.github.io/interactive-rating-component/
+    [Live Demo] (https://franecode.github.io/interactive-rating-component/)
 
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
