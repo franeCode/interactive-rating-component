@@ -11,7 +11,7 @@
   
 ## Live Demo
     
-    URL: [https://franecode.github.io/interactive-rating-component/index.html]
+    URL: https://franecode.github.io/interactive-rating-component/index.html
 
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
