@@ -43,14 +43,16 @@ body {
   .rating-container, .results {
     background: radial-gradient(circle at top,#252d37,#17191d);
   }
+<<<<<<< HEAD
   .rating-container h1 {
       font-size: 2rem;
-}
+=======
   .rating-container * {
       margin-bottom: 1rem;
   }
   .rating-container h1 {
       font-size: 1.8rem;
+>>>>>>> 2510a37590f09bee32ee7212388f5ceaa0b16402
   }
   .rating-container img {
       margin-bottom: 1.8rem;
@@ -74,6 +76,7 @@ body {
       height: 2.7rem;
       border: 0.1rem solid var(--clr-dark-blue);
       border-radius: 50%;
+
   }
   .number:focus {
     background-color: var(--clr-medium-grey);
