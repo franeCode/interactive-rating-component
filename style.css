@@ -43,7 +43,7 @@ body {
   .rating-container * {
       margin-bottom: 1rem;
   }
-  .rating-container h3 {
+  .rating-container h1 {
       font-size: 1.8rem;
   }
   .rating-container img {
@@ -102,6 +102,9 @@ body {
      align-items: center;
      gap: 1rem;
      justify-content: center;
+  }
+  .results h3 {
+    font-size: 1.8rem;
   }
   .results img {
       width: 10rem;
