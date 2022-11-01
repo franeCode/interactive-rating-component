@@ -11,7 +11,7 @@
   
 ## Live Demo
     
-    https://franecode.github.io/interactive-rating-component/
+    https://splendorous-beijinho-5bea2d.netlify.app
 
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
